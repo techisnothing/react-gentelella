@@ -1,14 +1,14 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-gentelella",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gentelella implementation using React",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/techisnothing/react-gentelella",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
-  "author": "Ivan Ha",
-  "license": "ISC",
+  "author": "techisnothing",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
@@ -28,8 +28,6 @@
     "lodash": "^3.10.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
-    "react-redux": "^4.4.8",
-    "react-router": "^2.0.1",
-    "redux": "^3.0.4"
+    "react-router": "^2.0.1"
   }
 }
